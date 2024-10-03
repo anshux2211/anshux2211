@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anshu Kumar Mehta
-- 👀 I’m interested in competitive programming and Full Stack Android Development
+- 👀 I’m interested in Competitive programming and Full Stack Android Development
 - 📈 My Coding Ratings: 
   - Leetcode: 1937 (Knight)
   - CodeChef: 1808 (4 Star)
