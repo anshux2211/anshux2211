@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Anshu Kumar Mehta
 - 👀 I’m interested in Competitive programming and Full Stack Android Development
 - 📈 My Coding Ratings: 
-  - Leetcode: 2000+ (Knight)
-  - CodeChef: 1900+ (4 Star)
-  - Codeforces: 1500+ (Specialist)
+  - CodeChef: 2028 (5 Star)
+  - Codeforces: 1600+ (Expert)
+  - Leetcode: 2100+ (Knight)
 - 💼 Currently seeking internship opportunities in Android Development and Software Development.
 
 
